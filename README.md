@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @easarker
+- 👋 Hi, I’m @eaniksarker
 - 👀 I’m interested in the Information Technology 
 - 🌱 I’m currently learning Cybersecurity 
 - 💞️ I’m looking to collaborate on Cybersecurity Specialist 
